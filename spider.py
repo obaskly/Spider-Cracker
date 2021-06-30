@@ -1,4 +1,5 @@
-import zipfile, threading
+#changing the code won't make you a coder
+import zipfile
 from tkinter import *
 from tkinter import messagebox
 
